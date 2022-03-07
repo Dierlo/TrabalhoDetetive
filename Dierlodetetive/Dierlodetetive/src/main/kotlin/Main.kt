@@ -19,7 +19,7 @@ fun main(){
     if(readLine()!!.toInt() == 1) contagem++
 
     if (contagem == 5) {
-        println("Você é um assassino!")
+        println("Você é um assasino!")
 
     } else if (contagem < 2) {
         println("Você é inocente!")
@@ -51,7 +51,7 @@ fun detetive() {
     if(readLine()!!.toInt() == 1) contagem++
 
     if (contagem == 5) {
-        println("Você é um assassino!")
+        println("Você é um assasino!")
 
     } else if (contagem < 2) {
         println("Você é inocente!")
